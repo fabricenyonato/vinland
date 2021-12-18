@@ -1,0 +1,14 @@
+name: vinland_example
+description: A new Flutter package project.
+version: 0.0.1
+homepage:
+publish_to: none
+
+environment:
+  sdk: ">=2.15.0 <3.0.0"
+
+dependencies:
+  vinland:
+    path: ".."
+  dio: ^4.0.4
+  chopper: ^4.0.4
